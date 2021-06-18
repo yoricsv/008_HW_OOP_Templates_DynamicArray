@@ -1,5 +1,5 @@
 # 008_HW_OOP_Templates_DynamicArray
-
+<!--
 # *******************************************************************************
 # @file           : README.md
 # @brief          : Short description of the project
@@ -50,8 +50,10 @@
 #  |->[tests]            // directory for unit tests
 #  |
 #  |
-#  |---> .gitignore
-#  |---> CMakeLists.txt
-#  |---> README.md
+#  |--- .gitignore
+#  |--- CMakeLists.txt
+#  |--- README.md
 # ********************** END PROJECT STRUCTURE (blank) ************************ 
+
+-->
   
