@@ -8,4 +8,4 @@ https://github.com/yoricsv/008_HW_OOP_Templates_DynamicArray.git
 **DOCTYPE** | **Discription**
 :---: | :---
 *file* | README.md
-*brief* |  This is my second project, where I create "Bicycle"))) <br/> For a clear understanding of the vector and gain some experience in OOP.
+*brief* |  The main reason why I do this is clear understanding of the vector operate and gain some experience in OOP.
